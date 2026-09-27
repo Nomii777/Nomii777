@@ -2,18 +2,18 @@
 
 Hi, I'm **Nauman Rafique**, a Full Stack Developer & Software Engineer from Pakistan.
 
-I mainly work with **Next.js, React.js, Node.js, and Python** to build web applications and business solutions. I enjoy working on both frontend and backend, especially when there is a real business problem that needs a practical technical solution.
-
-I also work with **Odoo ERP**, where I develop and customize modules, automate business workflows, integrate APIs, and build solutions based on specific business requirements.
+I mainly work with **Odoo ERP**, where I develop and customize modules, automate business workflows, integrate APIs, and build solutions based on specific business requirements.
 
 Recently, I've also been working with **AI Agents using LangChain and LangGraph**, including integrating AI-driven workflows with business systems and Odoo.
 
+I also work with **Next.js, React.js, Node.js, and Python** to build web applications and business solutions. I enjoy working on both frontend and backend, especially when there is a real business problem that needs a practical technical solution.
+
 ### 💻 Technologies I Work With
 
-- 🚀 Next.js & React.js
-- 🐍 Python & Node.js
+- 🐍 Python 
 - 🤖 LangChain & LangGraph
 - ⚙️ Odoo ERP & Business Automation
+- 🚀 Next.js & React.js
 - 🔗 REST APIs & Integrations
 - 🗄️ PostgreSQL & MongoDB
 - 🌐 WordPress & WooCommerce
