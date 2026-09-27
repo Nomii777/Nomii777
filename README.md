@@ -1,5 +1,27 @@
-# 💫 About Me:
-## 👋 About Me<br><br>Hi, I'm **Nauman Rafique**, a **Full Stack Developer & Software Engineer** from Pakistan.<br><br>I build scalable web applications and business solutions using **Next.js, React.js, Node.js, and Python**, with a focus on performance, clean architecture, and practical problem-solving.<br><br>I also specialize in **Odoo ERP development and business automation**, including custom module development, workflow automation, REST API integrations, and enterprise process optimization. Alongside ERP development, I've worked with **AI Agents using LangChain and LangGraph** to build intelligent, workflow-driven automation solutions integrated with business systems.<br><br>### 💻 What I Work With<br><br>* 🚀 Next.js & React.js<br>* 🐍 Python & Node.js<br>* 🤖 AI Agents, LangChain & LangGraph<br>* ⚙️ Odoo ERP & Business Automation<br>* 🔗 RESTful APIs & Integrations<br>* 🗄️ PostgreSQL & MongoDB<br>* 🌐 WordPress & WooCommerce<br>* ☁️ Firebase & Supabase<br><br>I enjoy turning **real-world business requirements into scalable software and intelligent automation solutions**, while continuously exploring modern technologies across **Full Stack Development, ERP, and AI**.<br><br>📍 **Pakistan** | 💼 **Open to Software Development & AI Opportunities**<br>
+## 💫 About Me
+
+Hi, I'm **Nauman Rafique**, a Full Stack Developer & Software Engineer from Pakistan.
+
+I mainly work with **Next.js, React.js, Node.js, and Python** to build web applications and business solutions. I enjoy working on both frontend and backend, especially when there is a real business problem that needs a practical technical solution.
+
+I also work with **Odoo ERP**, where I develop and customize modules, automate business workflows, integrate APIs, and build solutions based on specific business requirements.
+
+Recently, I've also been working with **AI Agents using LangChain and LangGraph**, including integrating AI-driven workflows with business systems and Odoo.
+
+### 💻 Technologies I Work With
+
+- 🚀 Next.js & React.js
+- 🐍 Python & Node.js
+- 🤖 LangChain & LangGraph
+- ⚙️ Odoo ERP & Business Automation
+- 🔗 REST APIs & Integrations
+- 🗄️ PostgreSQL & MongoDB
+- 🌐 WordPress & WooCommerce
+- ☁️ Firebase & Supabase
+
+I like building things, solving problems, and learning new technologies along the way. My current interests are mainly around **Full Stack Development, Odoo/ERP, AI Agents, and automation**.
+
+📍 Pakistan
 
 
 ## 🌐 Socials:
